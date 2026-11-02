@@ -2,6 +2,10 @@
 
 # Executive Authority Playbook
 
+[![Validation](https://github.com/mhdteto/executive-authority-playbook/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/mhdteto/executive-authority-playbook/actions/workflows/validate.yml)
+![Python CI](https://img.shields.io/badge/Python%20CI-3.12-36d9ee?labelColor=081321)
+
+
 **Practical working materials for founders, executives, investors and experts whose public record crosses organizations, markets and languages.**
 
 Build a reference biography, reconcile roles and names, organize evidence and request factual corrections with a clear audit trail. This public playbook supports an accurate and maintainable record across websites, professional profiles, third-party sources and AI-generated descriptions.
@@ -14,6 +18,21 @@ Build a reference biography, reconcile roles and names, organize evidence and re
   <a href="https://mohammedteto.com/method/"><img src=".github/readme-assets/method.svg" width="148" height="36" alt="The method" /></a>
   <a href="https://mohammedteto.com/leaders/"><img src=".github/readme-assets/leaders.svg" width="148" height="36" alt="For leaders" /></a>
 </p>
+
+<!-- suite-navigation -->
+## Start here: this repository in the workflow
+
+**Your task:** Define the leader, material claims and review scope.
+
+[Method →](https://github.com/mhdteto/authority-architecture-system) · [Audit →](https://github.com/mhdteto/search-ai-discoverability-checker) · [Structure →](https://github.com/mhdteto/entity-structured-data-kit) · [Measure →](https://github.com/mhdteto/ai-citation-tracker)
+
+**Next step:** [entity-consistency-auditor](https://github.com/mhdteto/entity-consistency-auditor) — Compare the approved identity with supplied profile observations.
+
+**Try it:** [complete fictional workflow](https://github.com/mhdteto/authority-architecture-system/tree/main/examples/fictional-workflow). All scenario records and engine answers are invented; generated reports are real CLI output.
+
+**Python CI:** 3.12. The badge links to the real workflow; it describes automated checks, not ranking, factual accuracy or AI visibility.
+[Map of all eight resources](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/tool-map.md) · [Open an issue](https://github.com/mhdteto/executive-authority-playbook/issues/new/choose)
+<!-- /suite-navigation -->
 
 ## Start with a concrete situation
 
